@@ -1,0 +1,12 @@
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\bin\Debug\net6.0\DAL.dll
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\obj\Debug\net6.0\DAL.dll
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+C:\MyProject\PrivPoS\PruebaProyectoAPI\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
